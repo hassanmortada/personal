@@ -1,0 +1,60 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Ph.D. at ICube
+    i18n: company_a
+  desc:
+    detail: Spectroscopic signals decomposition and tracking. Estimation of peak characteristics in a temporal or spatial set of spectra using sparse- based delayed source separation method.
+
+    i18n: company_a_desc
+  date:
+    detail: Oct. 2015-
+    i18n: company_a_date
+  job:
+    detail: strasbourg, France
+    i18n: company_a_job
+  icon: fas fa-search
+
+- name:
+    detail: Internship at Lab-STICC
+    i18n: company_b
+  desc:
+    detail: Compressed sensing matrix choice optimization for the modulated wide- band converter system Reduction of the coherence level of the sensing matrix in a compressed sensing system by using an appropriate pseudo-random generator.
+    i18n: company_b_desc
+  date:
+    detail: Feb-Jun 2015
+    i18n: company_b_date
+  job:
+    detail: Brest, France
+    i18n: company_b_job
+  icon: fas fa-search
+
+
+- name:
+    detail: Master degree, Brest University
+    i18n: company_c
+  desc:
+    detail: Signal and image processing
+    i18n: company_c_desc
+  date:
+    detail: Sep 2013-Jun 2015
+    i18n: company_c_date
+  job:
+    detail: Brest, France
+    i18n: company_c_job
+  icon: fas fa-graduation-cap
+
+
+- name:
+    detail: Bachelor degree, Lebanese University
+    i18n: company_c
+  desc:
+    detail: Electronics
+    i18n: company_c_desc
+  date:
+    detail: Sep 2010-Jun 2013
+    i18n: company_c_date
+  job:
+    detail: Beirut, Lebanon
+    i18n: company_c_job
+  icon: fas fa-graduation-cap
