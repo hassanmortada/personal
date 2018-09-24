@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fas fa-at
     - name: fas fa-bicycle
-  desc: Hello and welcome to my page! My name is Hassan Mortada and i am a Ph.D. student at ICube strasbourg.
+  desc: Hello and welcome to my page!! My name is Hassan Mortada and i am a Ph.D. student at ICube strasbourg.
         My field of research is signal and image processing. Specifically, i am interested in source separation, sparse approximation, dictionary learning with application to spectroscopic
       and hyperspectral data. # Describe yourself.
 
