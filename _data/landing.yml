@@ -8,6 +8,7 @@
 
 - id: career
   i18n: nav.career
+<<<<<<< HEAD
   name: Timeline
   tpl: career.html
   css: timeline
@@ -17,6 +18,17 @@
   name: Publications
   tpl: Publications.html
   css:
+=======
+  name: Career
+  tpl: career.html
+  css: timeline
+
+- id: skills
+  i18n: nav.skills
+  name: Skills
+  tpl: skills.html
+  css: team
+>>>>>>> f04262d36cb4ab9d442e6d9ce7492990b2ae10b3
 
 - id: projects
   i18n: nav.projects
@@ -24,7 +36,16 @@
   tpl: projects.html
   css: project
 
+<<<<<<< HEAD
 
+=======
+- id: blog
+  i18n: nav.blog
+  name: Blog
+  tpl: blog.html
+  page: blog/
+  css: testimonials navy-section
+>>>>>>> f04262d36cb4ab9d442e6d9ce7492990b2ae10b3
 
 - id: links
   i18n: nav.link
