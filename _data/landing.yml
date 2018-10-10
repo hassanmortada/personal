@@ -18,15 +18,6 @@
   tpl: Publications.html
   css:
 
-  name: Career
-  tpl: career.html
-  css: timeline
-
-- id: skills
-  i18n: nav.skills
-  name: Skills
-  tpl: skills.html
-  css: team
 
 - id: projects
   i18n: nav.projects
@@ -35,12 +26,7 @@
   css: project
 
 
-- id: blog
-  i18n: nav.blog
-  name: Blog
-  tpl: blog.html
-  page: blog/
-  css: testimonials navy-section
+
 
 
 - id: links
