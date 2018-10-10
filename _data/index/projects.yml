@@ -1,7 +1,7 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-<<<<<<< HEAD
+
 - name: Separation of delayed and Parameterized sources (sparse approximation method)
   i18n: jalpc
   gh_user: mortada92
@@ -15,7 +15,7 @@
   repo: Separation of delayed and parameterized sources Bspline
   img: /static/assets/img/landing/python.png
   desc: Matlab
-=======
+
 - name: Jalpc
   i18n: jalpc
   gh_user: jarrekk
@@ -35,4 +35,3 @@
   url: https://google.com
   img: /static/assets/img/landing/google.png
   desc: This is another project.
->>>>>>> f04262d36cb4ab9d442e6d9ce7492990b2ae10b3
