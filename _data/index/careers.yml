@@ -1,7 +1,6 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-<<<<<<< HEAD
     detail: Ph.D. at ICube
     i18n: company_a
   desc:
@@ -59,7 +58,7 @@
     detail: Beirut, Lebanon
     i18n: company_c_job
   icon: fas fa-graduation-cap
-=======
+
     detail: Company A
     i18n: company_a
   desc:
@@ -86,4 +85,3 @@
     detail: Full Stack Developer
     i18n: company_b_job
   icon: fa-plus-square
->>>>>>> f04262d36cb4ab9d442e6d9ce7492990b2ae10b3
