@@ -59,18 +59,7 @@
     i18n: company_c_job
   icon: fas fa-graduation-cap
 
-    detail: Company A
-    i18n: company_a
-  desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
-  date:
-    detail: Apr. 2016
-    i18n: company_a_date
-  job:
-    detail: CTO
-    i18n: company_a_job
-  icon: fa-plus-square
+
 
 - name:
     detail: Company B
