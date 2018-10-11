@@ -4,7 +4,7 @@
     detail: Ph.D. at ICube
     i18n: company_a
   desc:
-    detail: Spectroscopic signals decomposition and tracking. Estimation of peak characteristics in a temporal or spatial set of spectra using sparse- based delayed source separation method.
+    detail: Spectroscopic signals decomposition and tracking. Estimation of peak characteristics in a temporal or spatial set of spectra using sparse and B-spline based delayed source separation methods.
 
     i18n: company_a_desc
   date:
@@ -19,7 +19,7 @@
     detail: Internship at Lab-STICC
     i18n: company_b
   desc:
-    detail: Compressed sensing matrix choice optimization for the modulated wide- band converter system Reduction of the coherence level of the sensing matrix in a compressed sensing system by using an appropriate pseudo-random generator.
+    detail: Compressed sensing matrix choice optimization for the modulated wide-band converter architecture. Reduction of the coherence level of the sensing matrix by using an appropriate pseudo-random generator.
     i18n: company_b_desc
   date:
     detail: Feb-Jun 2015
