@@ -11,18 +11,34 @@
     detail: Oct. 2015-
     i18n: company_a_date
   job:
-    detail: strasbourg, France
+    detail: Strasbourg, France
     i18n: company_a_job
   icon: fas fa-search
+
+
+
+- name:
+    detail: Teaching at Télécom Physique
+    i18n: company_b
+  desc:
+    detail: Taught subjects are numerical analysis, signal processing, image processing and digital communications.
+    i18n: company_b_desc
+  date:
+    detail: Sep. 2016-Sep. 2018
+    i18n: company_b_date
+  job:
+    detail: Strasbourg, France
+    i18n: company_b_job
+  icon: fas fa-book
 
 - name:
     detail: Internship at Lab-STICC
     i18n: company_b
   desc:
-    detail: Compressed sensing matrix choice optimization for the modulated wide-band converter architecture. Reduction of the coherence level of the sensing matrix by using an appropriate pseudo-random generator.
+    detail: Compressed sensing matrix choice optimization for the modulated wide-band converter architecture. 
     i18n: company_b_desc
   date:
-    detail: Feb-Jun 2015
+    detail: Feb-Jun. 2015
     i18n: company_b_date
   job:
     detail: Brest, France

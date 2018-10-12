@@ -12,6 +12,6 @@
 - name: Separation of delayed and Parameterized sources (B-spline method)
   i18n: cpython
   gh_user: mortada92
-  repo: Separation of delayed and parameterized sources Bspline
+  repo: Separation-of-delayed-and-parameterized-sources-Bspline
   img: /static/assets/img/landing/B-spline.png
   desc: Matlab
