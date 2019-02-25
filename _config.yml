@@ -28,9 +28,9 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fas fa-at
     - name: fas fa-bicycle
-  desc: Hello and welcome to my page!! My name is Hassan Mortada and I am a Ph.D. student at ICube strasbourg.
-        My field of research is signal and image processing. Specifically, i am interested in source separation, sparse approximation, dictionary learning with application to spectroscopic
-      and hyperspectral data. # Describe yourself.
+  desc: Hello and welcome to my page!! My name is Hassan Mortada. Currently, I am doing a post-doc at ONERA (the French aerospace lab) and before I have done my Ph.D. at ICube laboratory in strasbourg.
+        My field of research is signal and image processing. Specifically, I am interested in source separation, compressed sensing, sparse approximation, dictionary learning with application to spectroscopic
+      , hyperspectral data and radar. # Describe yourself.
 
 
 # comment

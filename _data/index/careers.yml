@@ -1,5 +1,22 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+- name:
+    detail: Post-Doc at ONERA-The French aerospace lab
+    i18n: company_a
+  desc:
+    detail: Compressed sensing applied to wideband radar signals
+
+    i18n: company_a_desc
+  date:
+    detail: Jan. 2019-
+    i18n: company_a_date
+  job:
+    detail: Palaiseau, France
+    i18n: company_a_job
+  icon: fas fa-search
+
+
 - name:
     detail: Ph.D. at ICube
     i18n: company_a
@@ -8,7 +25,7 @@
 
     i18n: company_a_desc
   date:
-    detail: Oct. 2015-
+    detail: Oct. 2015-Dec. 2018
     i18n: company_a_date
   job:
     detail: Strasbourg, France
@@ -35,7 +52,7 @@
     detail: Internship at Lab-STICC
     i18n: company_b
   desc:
-    detail: Compressed sensing matrix choice optimization for the modulated wide-band converter architecture. 
+    detail: Compressed sensing matrix choice optimization for the modulated wide-band converter architecture.
     i18n: company_b_desc
   date:
     detail: Feb-Jun. 2015
